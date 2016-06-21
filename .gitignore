@@ -1,9 +1,11 @@
 #file
-.class
-.iml
-.orgi
+*.class
+*.iml
+*.orgi
 
 #dir
 /.idea
 /target
+
+
 
